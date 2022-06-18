@@ -1,0 +1,38 @@
+id: IBB188823
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T23:51:54.111061'
+last_modified: '2022-06-18T23:51:54.111074'
+parser: null
+source_metadata:
+  title: Hevajra (Ḍombi lugs) empowerment ritual by bSod nams rtse mo (1142-1182),
+    block print, colophon excerpt
+  author: slob dpon bsod nams rtse mo/
+  description: 'Digital version 1.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2015-07-16); revised, thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Mathias Fermer (mf)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/959
+  bases:
+    4a44:
+      title: Hevajra (Ḍombi lugs) empowerment ritual by bSod nams rtse mo (1142-1182),
+        block print, colophon excerpt
+      order: 1
+      base_file: 4a44.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
